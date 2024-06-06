@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
-  "homepage": "http://supachaic.github.io/bnk48-face-recognition",
   "dependencies": {
     "face-api.js": "^0.16.1",
     "gh-pages": "^2.0.1",
